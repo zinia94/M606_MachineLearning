@@ -1,11 +1,6 @@
 # Leveraging Machine Learning For Heart Disease Detection
 
-This pipeline has been created as an assignment for the Advanced Machine Learning course in my MEng studies in Computer Science.
-
-**Student ID:** GH1026804  
-**Module Name:** Advanced Machine Learning  
-**Module Tutor:** Dr. Mohammad Mahdavi  
-**Institution:** Gisma University of Applied Sciences  
+A machine learning project that analyzes health data to predict the risk of heart disease.
 
 ## Dataset
 
